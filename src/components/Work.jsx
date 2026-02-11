@@ -7,7 +7,7 @@ const Work = () => {
             <h2 className="text-center text-4xl mb-12 font-bold text-gray-900">My latest Mini project</h2>
 
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-                {/* Work items */}
+                
                 {[
                     { title: 'Pdf ChatBot', type: 'LLM ', img: 'https://studyopedia.com/wp-content/uploads/2025/10/AI-Agents-Tutorial-300x200.png' },
                     { title: 'AI Recruiter', type: 'Ai Agent', img: 'https://smartcomputertraininginstitute.org.in/wp-content/uploads/2025/09/best-ai-agents-in-india-smart-computer-ti-300x200.png' },

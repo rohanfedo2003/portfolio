@@ -10,12 +10,13 @@
 body {
   font-family: "Outfit", sans-serif;
   background-color: #fcfcfc;
-  scroll-behavior: smooth;
+  
 }
 
 html {
   scroll-padding-top: 80px;
-  /* Adjust based on navbar height */
+  scroll-behavior: smooth;
+  
 }
 
 h1,

@@ -26,7 +26,7 @@ const Navbar = () => {
             <div className="hidden md:block">
                 <button className="flex items-center gap-2 border border-gray-300 px-6 py-2.5 rounded-full hover:bg-black hover:text-white transition-all cursor-pointer">
                     Contact <img src="/assets/arrow-icon.svg" className="w-3" alt="" />
-                    {/* Placeholder for icon if image not present, using text for now if image fails */}
+                    
                     <span className="text-lg">↗</span>
                 </button>
             </div>

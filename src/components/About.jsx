@@ -8,7 +8,7 @@ const About = () => {
 
             <div className="flex w-full flex-col md:flex-row items-center gap-20">
                 <div className="w-full md:w-[35%]">
-                    {/* Placeholder for about image */}
+                    
                     <div className="w-full h-100 bg-gray-200 rounded-3xl overflow-hidden shadow-lg border border-gray-100">
                         <img src="\WhatsApp Image 2026-02-04 at 12.20.29 PM (1).jpeg" alt="About" className="w-full h-full object-cover" />
                     </div>

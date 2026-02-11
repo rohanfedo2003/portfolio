@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <div id="home" className="w-full min-h-screen flex flex-col items-center justify-center px-4 text-center py-20">
             <div className="mb-6 relative">
-                {/* Placeholder for user image */}
+                
                 <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-white shadow-lg mx-auto">
                     <img src="\WhatsApp Image 2026-02-04 at 12.20.29 PM (1).jpeg" alt="Profile" className="w-full h-full object-cover" />
                 </div>
