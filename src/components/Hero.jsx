@@ -28,7 +28,7 @@ const Hero = () => {
                     contact me <span>→</span>
                 </a>
                 <a href="\Rohan CV (1).pdf" download="Rohan_CV.pdf"className="px-8 py-3.5 bg-white border border-gray-200 text-black rounded-full font-medium hover:bg-gray-50 transition-colors flex items-center justify-center gap-2 shadow-sm hover:shadow-md">
-                    my resume <span>⬇</span>
+                    Download my resume <span>⬇</span>
                 </a>
             </div>
         </div>
